@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "been0519",
+    "database": "sequelize_level3",
+    "host": "express-database.cg7f69m1k85k.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
