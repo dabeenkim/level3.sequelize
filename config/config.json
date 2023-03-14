@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "been0519",
-    "database": "sequelize_level3",
-    "host": "express-database.cg7f69m1k85k.ap-northeast-2.rds.amazonaws.com",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {
